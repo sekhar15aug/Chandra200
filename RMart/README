@@ -1,0 +1,28 @@
+
+Application Contains following features:
+
+compileSdkVersion 23
+minSdkVersion 16
+targetSdkVersion 23
+
+# Display product catalogue
+
+# Material Action Bar
+
+# Pagination for product catalogue
+
+# Promo/Discount price and actual Price.
+
+# Dynamic product column adjustment
+
+# Item Details
+
+# test reports (unit test and code coverage)
+
+gradlew jacocoTestReport
+
+//Unit test result as a report
+RMart/app/build/reports/tests/debug/index.html
+
+//Code Coverage result as a report
+RMart/app/build/reports/jacoco/jacocoTestReport/html/index.html

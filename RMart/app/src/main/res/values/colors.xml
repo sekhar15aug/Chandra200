@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appWhite">@android:color/white</color>
+    <color name="appBlack">@android:color/black</color>
+    <color name="appSecondaryColor">#B71C1C</color>
+    <color name="appPrimaryColor">#F44336</color>
+</resources>
